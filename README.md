@@ -30,6 +30,6 @@
   
 
 # Project Status
-  <b>Status</b> : This is an on going project   
+  <b>Status</b> : This is an ongoing project   
            This project is actively being developed. recently, it includes pages like homepage and product listing. this project is currently optimized for the desktop viewing only 
   
